@@ -6,6 +6,9 @@
 
 ## SQL Schema
 
+### Question Link:
+https://leetcode.com/problems/employees-earning-more-than-their-managers/?envType=problem-list-v2&envId=m8baczxh
+
 ### Table: Employee
 
 | Column Name | Type    |
