@@ -4,6 +4,8 @@
 - [Problem Statement](#problem-statement)
 - [Code](#code-)
 
+### Question Link:
+https://leetcode.com/problems/second-highest-salary/?envType=problem-list-v2&envId=m8baczxh
 
 ## SQL Schema
 ### Table: Employee
