@@ -5,6 +5,11 @@
 - [Problem Statement](#problem-statement)
 - [Solution](#code)
 
+
+### Question Link:
+https://leetcode.com/problems/nth-highest-salary/description/?envType=problem-list-v2&envId=m8baczxh
+
+
 ## SQL Schema
 
 ### Table: Employee
