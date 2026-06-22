@@ -5,6 +5,9 @@
 - [Problem Statement](#problem-statement)
 - [Code](#code-)
 
+### Question Link:
+https://leetcode.com/problems/consecutive-numbers/?envType=problem-list-v2&envId=m8baczxh
+
 ## Schema
 ## Table: Logs
 
